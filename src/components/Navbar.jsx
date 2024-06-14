@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <Box bg={useColorModeValue("gray.100", "gray.900")} px={4}>
       <Flex h={16} alignItems={"center"} justifyContent={"space-between"}>
-        <Box>Online Presence Pro</Box>
+        <Box>ievatech.com</Box>
         <Flex alignItems={"center"}>
           <RouterLink to="/">
             <Button variant={"link"} mr={4}>
